@@ -1,6 +1,6 @@
 # MyBots
 
-creat bot commands
+creat commands bot-telegram
 
 git clon https://github.com/M100achuz2/MyBots.git
 
