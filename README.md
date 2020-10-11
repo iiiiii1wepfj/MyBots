@@ -1,2 +1,7 @@
 # MyBots
-יצירת רובוטי משוב
+
+creat bot commands
+
+git clon
+
+[edit ID creator]()
