@@ -2,9 +2,9 @@ import json
 from pyrogram import filters, types
 from pyrogram.types import *
 
-from Documents.MyBots import Client
-from Documents.MyBots.Client import log, return_command, CREATOR, admins
-from Documents.MyBots.msg import *
+from MyBots.MyBots.bot import Client
+from MyBots.MyBots.bot.Client import log, return_command, CREATOR, admins
+from MyBots.MyBots.bot.msg import *
 
 # ----------------הגדרות פיירוגרם----------------
 app = Client.app
