@@ -9,8 +9,10 @@ git clone https://github.com/M100achuz2/MyBots.git
 
 enter you'r api id & hash from my.telegram.org [here](https://github.com/M100achuz2/MyBots/blob/c2f30838371dac3e82f1c5b8f1a310e0e58f4d5b/MyBots/bot/API.json)
 
-enter you'r bot token from [@BotFather](t.me/BotFather) [here](https://github.com/M100achuz2/MyBots/blob/c2f30838371dac3e82f1c5b8f1a310e0e58f4d5b/MyBots/bot/API.json#L2)
+enter you'r bot token from [@BotFather](https://t.me/BotFather) [here](https://github.com/M100achuz2/MyBots/blob/c2f30838371dac3e82f1c5b8f1a310e0e58f4d5b/MyBots/bot/API.json#L2)
 
 pip3 install -r requirements.txt
 
+
 run main.bot
+
